@@ -6,6 +6,8 @@ public class Main {
 
         System.out.println("What course are you in?");
 
+        System.out.println("I am learning github");
+
     }
 
     public int age(){
